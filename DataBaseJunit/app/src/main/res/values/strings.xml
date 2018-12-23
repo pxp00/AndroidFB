@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DataBaseJunit</string>
+    <string name="name">name</string>
+    <string name="sex">sex</string>
+    <string name="save_data">save data</string>
+    <string name="query_select">query/select</string>
+</resources>

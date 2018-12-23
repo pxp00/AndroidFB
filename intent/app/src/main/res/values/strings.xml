@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">intent</string>
+    <string name="button1_txt">open 1st activity vis intent</string>
+    <string name="button2_txt">open 2nd activity vis intent</string>
+    <string name="button3_txt">open browser</string>
+    <string name="button4_txt">open tel 10086</string>
+</resources>

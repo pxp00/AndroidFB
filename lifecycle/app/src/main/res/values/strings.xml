@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lifecycle</string>
+    <string name="title_activity_first">first</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentFeedback</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="f_left">Left</string>
+    <string name="f_right">Right</string>
+    <string name="other">Other</string>
+</resources>
